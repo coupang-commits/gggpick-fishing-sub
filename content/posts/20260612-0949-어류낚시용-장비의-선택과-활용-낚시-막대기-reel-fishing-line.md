@@ -1,5 +1,5 @@
 ---
-title: "어류낚시용 장비의 선택과 활용- 낚시用的 막대기, reel, fishing line"
+title: "어류낚시용 장비의 선택과 활용- 낚시 막대기, reel, fishing line"
 date: 2026-06-12T09:49:01.539+09:00
 slug: "어류낚시용-장비의-선택과-활용-낚시-막대기-reel-fishing-line"
 description: "어류낚시용 장비의 선택과 활용은 어류낚시를 하기 위한 중요한 요소입니다."
